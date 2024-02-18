@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./fonts.scss";
+
+body {
+  font-family: "Yekan Bakh" !important;
+  direction: rtl;
+}
