@@ -17,6 +17,8 @@
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
+    "@vueuse/core": "^10.7.2",
+    "@vueuse/nuxt": "^10.7.2",
     "autoprefixer": "^10.4.17",
     "postcss": "^8.4.35",
     "sass": "^1.71.0",
